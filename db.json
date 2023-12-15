@@ -9,7 +9,7 @@
     {
       "id": 3,
       "name": "mango",
-      "quantity": 12,
+      "quantity": 16,
       "price": 50
     },
     {
@@ -17,6 +17,12 @@
       "name": "orange",
       "quantity": 30,
       "price": 120
+    },
+    {
+      "id": 6,
+      "name": "watermelon",
+      "quantity": "120",
+      "price": "6"
     }
   ]
 }
